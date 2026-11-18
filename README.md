@@ -104,4 +104,4 @@ O sistema lê automaticamente qualquer planilha que contenha as duas colunas aba
 
 Desenvolvido por **[Riandouglas da Costa Bezerra]** — Automação de Processos & Desenvolvimento Python.  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/riandouglas-costa-78239b340)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfólio-181717?style=flat-square&logo=github)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfólio-181717?style=flat-square&logo=github)](https://github.com/Riandouglas-dev)
