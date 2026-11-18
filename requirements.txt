@@ -1,0 +1,6 @@
+pandas
+openpyxl
+reportlab
+qrcode
+pillow
+pyinstaller
